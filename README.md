@@ -1,7 +1,7 @@
 # CP210x_GPIO_x86-64
 CP210x GPIO  control
 
-# Know issues:
+# Test Results:
 32 bit can support most CP210x with N variations.
 64 bit can support most CP210x with N variations.
 
