@@ -11,7 +11,7 @@ CP210x GPIO  control
 64 bit cannot support CH9102F, require official 64 bit DLL release.
 
 # Board Example:
-![Test Gear](./image/CP210x_various_test_gear.PNG)
+![Test Gear](./image/CP210x_various_test_gear.PNG) ![Test Board](./image/board.PNG)
 
 
 
